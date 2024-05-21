@@ -1,0 +1,11 @@
+#calculator {
+ border: 10px solid s#645f5f;
+ border-radius: 5px;
+ width: 200px;   
+}
+
+#display{
+    margin: 10px;
+    width: 100px;
+
+}
