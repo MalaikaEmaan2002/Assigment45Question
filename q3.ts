@@ -1,5 +1,5 @@
 
-let Name:string ="Azha";
+let personName:string ="Azha";
 
   //  lowercase
 console.log(personName.toLocaleLowerCase());
