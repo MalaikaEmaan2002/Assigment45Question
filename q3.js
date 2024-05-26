@@ -1,4 +1,4 @@
-let Name = "Azha";
+let personName = "Azha";
 //  lowercase
 console.log(personName.toLocaleLowerCase());
 //   uppercase
